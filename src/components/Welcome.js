@@ -16,10 +16,10 @@ function Welcome() {
                         <Text align="center" w={["80%", "75%", "70%", "70%"]} fontSize={24}>Join  the  Celo  Erectus  Community! We’re  a  community  of  1111 hand dawn stored  as  ERC-721  tokens  on the Celo  network.</Text>
 
                         <Stack direction={["column", "column", "row", "row"]} spacing={8}>
-                            {/* <Link target="_blank" rel="noopener noreferrer" href="https://discord.com/invite/TrippyTurtlesClub" _hover={{}}>
+                            {/* <Link target="_blank" rel="noopener noreferrer" href="https://discord.com/" _hover={{}}>
                                 <Button variant='solid' p={6} leftIcon={<FaDiscord />} borderRadius={80} bgColor="accent" color="black" borderColor="accent" borderWidth="2px" _focus={{ outline: 0 }} _hover={{ bgColor: "transparent", color: "white" }}>Join Now</Button>
                             </Link>
-                            <Link target="_blank" rel="noopener noreferrer" href="https://twitter.com/_trippyturtles_" _hover={{}}>
+                            <Link target="_blank" rel="noopener noreferrer" href="https://twitter.com/" _hover={{}}>
                                 <Button variant='solid' p={6} leftIcon={<FaTwitter />} borderRadius={80} bgColor="accent" color="black" borderColor="accent" borderWidth="2px" _focus={{ outline: 0 }} _hover={{ bgColor: "transparent", color: "white" }}>Follow Us</Button>
                             </Link> */}
                             <Link target="_blank" rel="noopener noreferrer" href="https://incandescent-lokum-385833.netlify.app/" _hover={{ textDecoration: 'none' }}>
