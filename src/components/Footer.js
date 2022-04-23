@@ -1,6 +1,5 @@
 import React from 'react'
 import { Image, Box, VStack, Text } from '@chakra-ui/react'
-import logo from '../images/nav_logo.png'
 import NavIcons from './NavIcons'
 
 function Footer() {
@@ -10,11 +9,11 @@ function Footer() {
                 spacing={12}
                 align="center"
             >
-                <Image src={logo} h="140px" />
+                <h="140px" />
                 <NavIcons />
 
                 <Text>
-                    © 2022 TTC. All right reserved.
+                    © 2022 Celo Erectus. All right reserved.
                 </Text>
             </VStack>
         </Box>
