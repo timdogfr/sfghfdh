@@ -37,11 +37,7 @@ function FAQ() {
                     <Text color="accent">TBA</Text>
                 </FAQItem>
                 <FAQItem question="How much is mint?">
-                    <Text color="accent">• Phase 0 <ArrowForwardIcon mx={4} /> 2022 Q2 <ArrowForwardIcon mx={4} /> </Text>
-                    <Text color="accent">• Phase 1 <ArrowForwardIcon mx={4} /> 2022 Q3 <ArrowForwardIcon mx={4} /> </Text>
-                    <Text color="accent">• Phase 2 <ArrowForwardIcon mx={4} /> 2022 Q4 <ArrowForwardIcon mx={4} /> </Text>
-                    <Text color="accent">• Phase 3 <ArrowForwardIcon mx={4} /> 2023 Q1 <ArrowForwardIcon mx={4} /> </Text>
-                    <Text color="accent">• Phase 4 <ArrowForwardIcon mx={4} /> 2023 Q2 <ArrowForwardIcon mx={4} /> </Text>
+                    <Text color="accent">• Celo Erectus <ArrowForwardIcon mx={4} /> Mint Price is <ArrowForwardIcon mx={4} /> 3 CELO </Text>
 
                 </FAQItem>
             </Accordion>
