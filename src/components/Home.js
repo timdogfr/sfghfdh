@@ -17,7 +17,7 @@ function Home({ children }) {
                 >
                     <Heading color="white" align="center" size="3xl">Welcome to the</Heading>
                     <Heading color="accent" align="center" fontSize="100px">
-                        Trippy Turtles Club</Heading>
+                        Celo Erectus</Heading>
                 </Box>
                 <Box
                     position="absolute"
@@ -30,7 +30,7 @@ function Home({ children }) {
                 >
                     <Heading color="black" align="center" size="3xl">Welcome to the</Heading>
                     <Heading color="black" align="center" fontSize="100px">
-                        Trippy Turtles Club</Heading>
+                        Celo Erectus</Heading>
                 </Box> */}
             </Box>
         </>
