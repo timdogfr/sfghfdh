@@ -2,7 +2,6 @@ import React from 'react'
 import { Box, VStack, Image, Heading, SimpleGrid, Center, Link } from '@chakra-ui/react'
 
 
-import a from '../images/nft-calendar.png'
 
 function Here({ src, name, url }) {
     return (
@@ -31,8 +30,8 @@ function SeenOn() {
             <Box mx={[32, 32, 16, 16, 32]} id="Team">
                 <Center>
                     <SimpleGrid spacing="6vw" columns={["1", "1", "2", "2"]} rowGap={8}>
-                        <Here name="NFTCalendar.io" src={a} url='https://nftcalendar.io/event/trippy-turtles-club/' />
-                        <Here name="NFTPilot.io" src={'https://nftpilot-12f9a.kxcdn.com/wp-content/uploads/2022/01/Nftpilot_logo_300x300_w_text.png'} url='https://www.nftpilot.io/nft-project/trippy-turtles-club/' />
+                        <Here name="tofunft.com" src={'https://pbs.twimg.com/profile_images/1478611959738408962/ftn_GhBj_400x400.jpg'} url='' />
+                        <Here name="beta.cyberbox.art" src={'https://pbs.twimg.com/profile_images/1496052164816482304/IN1P3BtS_400x400.png'} url='' />
                     </SimpleGrid>
                 </Center>
             </Box>
