@@ -32,46 +32,34 @@ function Roadmap() {
                     </Box>
 
                     <RoadmapItem n='Phase 0' icon={<SettingsIcon color="white" fontSize="32px" />}>
-                        <Text fontSize="lg" fontStyle="italic"><Badge colorScheme='purple' p={2} px={4} rounded={10}>0 - 200 Mints</Badge></Text>
-                        <Text>• The first 200 mints will be reserved for team and giveaways </Text>
-                        <Text>• This includes marketing giveaways</Text>
+                        <Text fontSize="lg" fontStyle="italic"><Badge colorScheme='purple' p={2} px={4} rounded={10}>2022 Q2</Badge></Text>
+                        <Text>• Website Publishing </Text>
+                        <Text>• Giveaway Programmes for Grow the Community</Text>
+                        <Text>• Mint NFTs</Text>
                     </RoadmapItem>
 
                     <RoadmapItem n="Phase 1" icon={<CalendarIcon color="white" fontSize="32px" />}>
-                        <Text fontSize="lg" fontStyle="italic"><Badge colorScheme='purple' p={2} px={4} rounded={10}>201 - 700 <ArrowForwardIcon /> Free Mint</Badge></Text>
-                        <Text>• Up to 250 members who are able to mint a maximum of 2 TTC NFTs for free.</Text>
-                        <Text>• Focus on community growth & organic marketing </Text>
-                        <Text>• Community events </Text>
+                        <Text fontSize="lg" fontStyle="italic"><Badge colorScheme='purple' p={2} px={4} rounded={10}>2022 Q3</Badge></Text>
+                        <Text>• NFT Marketplace Listings</Text>
+                        <Text>• Publish New Erectus on Other Blockchains </Text>
+                        <Text>• Publish Our 2nd Evolution Serie on Celo Network (Celo ??????) </Text>
                     </RoadmapItem>
 
                     <RoadmapItem n="Phase 2" icon={<TimeIcon color="white" fontSize="32px" />}>
-                        <Text fontSize="lg" fontStyle="italic"><Badge colorScheme='purple' p={2} px={4} rounded={10}>701 - 1200 <ArrowForwardIcon /> 10 matic</Badge></Text>
-                        <Text>• Paid advertising with social media pages with large followings </Text>
-                        <Text>• Giveaways to promote</Text>
+                        <Text fontSize="lg" fontStyle="italic"><Badge colorScheme='purple' p={2} px={4} rounded={10}>2022 Q4</Badge></Text>
+                        <Text>• Publish Our 3rd Evolution Serie on Celo Network and 2nd Evolution Serie on Other Blockchains </Text>
                     </RoadmapItem>
 
                     <RoadmapItem n="Phase 3" icon={<StarIcon color="white" fontSize="32px" />} >
-                        <Text fontSize="lg" fontStyle="italic"><Badge colorScheme='purple' p={2} px={4} rounded={10}>1201 - 2500 <ArrowForwardIcon /> 15 matic</Badge></Text>
-                        <Text>• Two honorary 1/1s in a separate collection and 2x $500 will be raffled amongst the holders </Text>
+                        <Text fontSize="lg" fontStyle="italic"><Badge colorScheme='purple' p={2} px={4} rounded={10}>2023 Q1</Badge></Text>
+                        <Text>• Publish Our 4th Evolution Serie on Celo Network </Text>
+                        <Text>• Publish Our 3rd and 4th Evolution Series on Other Blockchanis </Text>
+                        <Text>• Open Evolution Market which you can buy physically decorative evolution objects on our market with the nfts you hold. </Text>
                     </RoadmapItem>
 
                     <RoadmapItem n="Phase 4" icon={<CheckCircleIcon color="white" fontSize="32px" />} >
-                        <Text fontSize="lg" fontStyle="italic"><Badge colorScheme='purple' p={2} px={4} rounded={10}>2501 - 7500 <ArrowForwardIcon /> 20 matic</Badge></Text>
-                        <Text>• Merchandising design will be dropped and community will be able to send in their ideas & designs</Text>
-                        <Text>• Eight honorary 1/1s in a different collection and 4x $1000 will be raffled amongst the holders </Text>
-                    </RoadmapItem>
-
-                    <RoadmapItem n="Phase 5" icon={<TriangleUpIcon color="white" fontSize="32px" />} >
-                        <Text fontSize="lg" fontStyle="italic"><Badge colorScheme='purple' p={2} px={4} rounded={10}>7501 - 10000 <ArrowForwardIcon /> 25 matic</Badge></Text>
-                        <Text>• To commemorate 100% sell out, we will donate 10% to saving the turtles and ocean clean up initiatives based on the community's vote but that’s not all…</Text>
-                        <Text>• Ten honorary 1/1s in a different collection and 5x $1000 will be raffled amongst the holders </Text>
-                        <Text>• Monthly giveaways for holders </Text>
-                        <Text>• Merchandise sales </Text>
-                        <Text>• 100% of the profits from merchandise sales goes to charity every quarterly </Text>
-                        <Text>• Secondary market sales </Text>
-                        <Text>• 20% goes to the team every month </Text>
-                        <Text>• 40% goes into sweeping the floor which will either be used for giveaways or sent to a burner wallet every month which will reduce the supply eventually increasing the value of the TTC NFTs.</Text>
-                        <Text>• Remaining 40% goes into the treasury every month</Text>
+                        <Text fontSize="lg" fontStyle="italic"><Badge colorScheme='purple' p={2} px={4} rounded={10}>2023 Q2</Badge></Text>
+                        <Text>• We continue for creating new Evolution Series and making updates to increase engagement in the market.</Text>
                     </RoadmapItem>
                 </VStack>
             </Box>
