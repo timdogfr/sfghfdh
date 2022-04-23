@@ -9,7 +9,7 @@ function Nav() {
             as="nav"
             align="center"
             wrap="wrap"
-            w="60%"
+            w="100%"
             bgGradient="linear(to-b, black, rgb(0,0,0,0.8), rgb(0,0,0,0.6), rgb(0,0,0,0))"
             px={32}
             pt={5}
