@@ -16,20 +16,20 @@ function Story() {
                 >
                     <VStack spacing={12} w="100%">
                         <Text>
-                            The  year  is  2420. Centuries of space-tourism and neglectful waste disposal on Earth have increased carbon emissions and general toxicity to unprecedented and uninhabitable levels. Most humans have retreated to colonies on Mars and other nearby planets. Earth is still a popular stop; unfortunately, it’s mostly for waste disposal. Humans aren’t planning on ruining their adopted home planet a second time.
+                            We evolve from 1 million years ago to the present. We are very happy to present this special 1111 NFT Collection to the Celo family. Let’s evolve the Celo Network
                         </Text>
                         <Text>
-                            Earth is a lost cause - a forgotten history. The blue planet is no longer recognizable by previous standards. Still, evolution found a way and accelerated with the few surviving species.
+                            Evolution is the change in the distribution of genes and traits in a population over generations under selection pressure. You will be able to see these changes with us within the Celo Blockchain.
                         </Text>
                         <Text>
-                            We thought dolphins were the most intelligent sea creatures; well, turtles ended up being the dark horses of the survival race. Evolving from the cute little creatures we used to know, a small group of turtles discovered fire and tools off a deserted island and what they thought was seaweed.
+                            We started the series with Homo Erectus. Ohh sorry CELO ERECTUS :) 1111 special Celo Erectus will be with you soon. We will evolve together with you with the continuation of the series.
                         </Text>
                         <Text>
-                            The rest is (a  new) history. This community of 10,000 turtles now reside on a secret island, resembling what we’d have imaged Atlantis to be like.
+                            We think we will be a new breath to the Celo NFT WORLD.
                         </Text>
                     </VStack>
                     <Spacer />
-                    <Image src="https://uploads-ssl.webflow.com/61fa6391d5cbf61cdc749a3e/620d1709c015990c83952f73_Gau%20Admi2.png" w={["70%", "60%", "45%", "45%", "25%"]} rounded="16px" mx={16} />
+                    <Image src="https://i.ibb.co/QrR3k6K/934.pngg" w={["70%", "60%", "45%", "45%", "25%"]} rounded="16px" mx={16} />
                 </Stack>
             </Box>
         </>
