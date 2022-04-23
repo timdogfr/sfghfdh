@@ -9,7 +9,6 @@ function Footer() {
                 spacing={12}
                 align="center"
             >
-                <h="140px" />
                 <NavIcons />
 
                 <Text>
