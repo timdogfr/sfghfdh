@@ -22,7 +22,7 @@ function Welcome() {
                             <Link target="_blank" rel="noopener noreferrer" href="https://twitter.com/" _hover={{}}>
                                 <Button variant='solid' p={6} leftIcon={<FaTwitter />} borderRadius={80} bgColor="accent" color="black" borderColor="accent" borderWidth="2px" _focus={{ outline: 0 }} _hover={{ bgColor: "transparent", color: "white" }}>Follow Us</Button>
                             </Link> */}
-                            <Link target="_blank" rel="noopener noreferrer" _hover={{ textDecoration: 'none' }}>
+                            <Link target="_blank" rel="noopener noreferrer" href="https://celoerectus.shop" _hover={{ textDecoration: 'none' }}>
                                 <Button
                                     variant='solid'
                                     p={10}
