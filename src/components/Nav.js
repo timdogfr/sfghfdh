@@ -23,7 +23,7 @@ function Nav() {
             >
                 <MenuItems />
                 <Spacer />
-                <Image src={logo} w={["380px", "380px", "300px", "300px"]} />
+                <Image src={logo} w={["600px", "600px", "600px", "600px"]} />
                 <Spacer />
                 <NavIcons />
 
