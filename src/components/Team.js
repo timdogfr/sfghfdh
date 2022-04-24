@@ -32,8 +32,8 @@ function Team() {
             <Box mx={[32, 32, 16, 16, 32]} id="Team">
                 <Center>
                     <SimpleGrid spacing="6vw" columns={["1", "2"]} rowGap={8} >
-                        <TeamMember name="Isim" role="CEO" src={a} />
-                        <TeamMember name="Isim1" role="CEO" src={b} />                   
+                        <TeamMember name="Crypto Çinekop" role="CEO" src={a} />
+                        <TeamMember name="Arjantit" role="CEO" src={b} />                   
                     </SimpleGrid>
                 </Center>
             </Box>
