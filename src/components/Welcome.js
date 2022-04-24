@@ -13,7 +13,7 @@ function Welcome() {
                         <Box>
                             <Heading align="center">Welcome to the</Heading><Heading color="accent" align="center" size="4xl">Celo Erectus</Heading>
                         </Box>
-                        <Text align="center" w={["80%", "75%", "70%", "70%"]} fontSize={24}>Join  the  Celo  Erectus  Community! We’re  a  community  of  1111 hand dawn stored  as  ERC-721  tokens  on the Celo  network.</Text>
+                        <Text align="center" w={["80%", "75%", "70%", "70%"]} fontSize={24}>Join  the  Celo  Erectus  Community! We’re  a  community  of  1111 hand drawn stored  as  ERC-721  tokens  on the Celo  network.</Text>
 
                         <Stack direction={["column", "column", "row", "row"]} spacing={8}>
                             {/* <Link target="_blank" rel="noopener noreferrer" href="https://discord.com/" _hover={{}}>
