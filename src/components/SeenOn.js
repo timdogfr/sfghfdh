@@ -31,7 +31,7 @@ function SeenOn() {
                 <Center>
                     <SimpleGrid spacing="6vw" columns={["1", "1", "4", "4"]} rowGap={4}>
                         <Here name="tofunft.com" src={'https://pbs.twimg.com/profile_images/1478611959738408962/ftn_GhBj_400x400.jpg'} />
-                        <Here name="cyberbox.art" src={'https://pbs.twimg.com/profile_images/1496052164816482304/IN1P3BtS_400x400.png'} />
+                        <Here name="cyberbox.art" src={'blob:https://web.whatsapp.com/f012e8d8-22fe-4c89-8bdf-7eccd0e09d5e'} />
                         <Here name="ariswap.net" src={'https://pbs.twimg.com/profile_images/1490390423285772293/17-PYyfp_400x400.jpg'} />
                         <Here name="epor.io" src={'https://pbs.twimg.com/profile_images/1358006180413644800/6D30gWMK_400x400.png'} />
                     </SimpleGrid>
