@@ -31,7 +31,7 @@ function NavIcons() {
             <Stack spacing={5} direction={"row"} pt={[16, 16, 0]} align="center">
                 <MenuIcon name="Discord" to="https://discord.com/" icon={<FaDiscord />} />
                 <MenuIcon name="Twitter" to="https://twitter.com/" icon={<FaTwitter />} />
-                <MenuIcon name="Instagram" to="https://www.instagram.com/" icon={<FaInstagram />} />
+                <MenuIcon name="Instagram" to="https://www.instagram.com/" icon={<FaMedium />} />
                 <MenuIcon name="OpenSea" to="https://opensea.io/" icon={<GiSailboat />} />
             </Stack>
         </>
