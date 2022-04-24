@@ -29,7 +29,7 @@ function SeenOn() {
             </Box>
             <Box mx={[32, 32, 16, 16, 32]} id="Team">
                 <Center>
-                    <SimpleGrid spacing="6vw" columns={["1", "1", "2", "2"]} rowGap={8}>
+                    <SimpleGrid spacing="6vw" columns={["1", "1", "1", "1"]} rowGap={4}>
                         <Here name="tofunft.com" src={'https://pbs.twimg.com/profile_images/1478611959738408962/ftn_GhBj_400x400.jpg'} />
                         <Here name="beta.cyberbox.art" src={'https://pbs.twimg.com/profile_images/1496052164816482304/IN1P3BtS_400x400.png'} />
                         <Here name="ariswap.net" src={'https://pbs.twimg.com/profile_images/1490390423285772293/17-PYyfp_400x400.jpg'} />
