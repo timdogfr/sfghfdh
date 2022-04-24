@@ -33,7 +33,7 @@ function SeenOn() {
                         <Here name="tofunft.com" src={'https://pbs.twimg.com/profile_images/1478611959738408962/ftn_GhBj_400x400.jpg'} />
                         <Here name="cyberbox.art" src={'https://i.ibb.co/Bc1M06x/Box-logo2.png'} />
                         <Here name="ariswap.net" src={'https://pbs.twimg.com/profile_images/1490390423285772293/17-PYyfp_400x400.jpg'} />
-                        <Here name="epor.io" src={'https://i.ibb.co/Bc1M06x/Box-logo2.png'} />
+                        <Here name="epor.io" src={'https://pbs.twimg.com/profile_images/1358006180413644800/6D30gWMK_400x400.png'} />
                     </SimpleGrid>
                 </Center>
             </Box>
