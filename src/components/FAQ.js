@@ -36,6 +36,9 @@ function FAQ() {
                 <FAQItem question="When is public mint?">
                     <Text color="accent">TBA</Text>
                 </FAQItem>
+                <FAQItem question="Contract Address">
+                    <Text color="accent">Soon</Text>
+                </FAQItem>
                 <FAQItem question="How much is mint?">
                     <Text color="accent">• Celo Erectus <ArrowForwardIcon mx={4} /> Public Price is 6 CELO <ArrowForwardIcon mx={4} /> Whitelist Price is 3 CELO </Text>
 
