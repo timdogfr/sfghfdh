@@ -1,6 +1,7 @@
 import React from 'react'
 import { Spacer, Stack, Image, Box } from '@chakra-ui/react'
 import NavIcons from './NavIcons'
+import logo from '../images/nav_logo.png'
 import MenuItems from './MenuItems'
 
 function Nav() {
@@ -22,7 +23,7 @@ function Nav() {
             >
                 <MenuItems />
                 <Spacer />
-                <Image w={["380px", "380px", "300px", "300px"]} />
+                <Image src={logo} w={["730px", "730px", "409px", "409px"]} />
                 <Spacer />
                 <NavIcons />
 
