@@ -4,7 +4,7 @@ import { Box } from '@chakra-ui/react'
 function Home({ children }) {
     return (
         <>
-            <Box h="30vh" bgPos="center" borderColor="accent" borderBottomWidth="6px">
+            <Box h="20vh" bgPos="center" borderColor="accent" borderBottomWidth="6px">
                 {children}
                 {/* <Box
                     position="absolute"
