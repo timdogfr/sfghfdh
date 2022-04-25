@@ -37,7 +37,7 @@ function FAQ() {
                     <Text color="accent">TBA</Text>
                 </FAQItem>
                 <FAQItem question="Contract Address?">
-                    <Text color="accent">Soon</Text>
+                    <Text color="accent">0x56546DAF99C69c0F6271FA287b30A1946cA466f0</Text>
                 </FAQItem>
                 <FAQItem question="How much is mint?">
                     <Text color="accent">• Celo Erectus <ArrowForwardIcon mx={4} /> Public Price is 6 CELO <ArrowForwardIcon mx={4} /> Whitelist Price is 3 CELO </Text>
