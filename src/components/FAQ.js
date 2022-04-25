@@ -31,10 +31,10 @@ function FAQ() {
             </Box>
             <Accordion w="100%" allowToggle>
                 <FAQItem question="When is presale mint?">
-                    <Text color="accent">TBA</Text>
+                    <Text color="accent">6 May 2022</Text>
                 </FAQItem>
                 <FAQItem question="When is public mint?">
-                    <Text color="accent">TBA</Text>
+                    <Text color="accent">7 May 2022</Text>
                 </FAQItem>
                 <FAQItem question="Contract Address?">
                     <Text color="accent">0x56546DAF99C69c0F6271FA287b30A1946cA466f0</Text>
