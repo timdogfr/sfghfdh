@@ -6,7 +6,7 @@ import { Box, VStack, Image, Heading, SimpleGrid, Center, Link } from '@chakra-u
 function Here({ src, name, url}) {
     return (
         <>
-            <Link w='100%' h='100%' p={4} pb={6} bg='transparent' rounded={16} _hover={{ bgColor: 'rgb(44,44,44, 0.5)' }} _focus={{ outline: 0 }} target="_blank" rel="noopener noreferrer">
+            <Link w='100%' h='100%' p={4} pb={6} bg='transparent' rounded={16} _hover={{ bgColor: 'rgb(44,44,44, 0.5)' }} _focus={{ outline: 0 }} href={url} target="_blank" rel="noopener noreferrer">
                 <Box>
                     <VStack spacing={5}>
                         <Image maxW={64} src={src} />
