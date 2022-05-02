@@ -30,10 +30,10 @@ function SeenOn() {
             <Box mx={[32, 32, 16, 16, 32]} id="Team">
                 <Center>
                     <SimpleGrid spacing="6vw" columns={["1", "1", "4", "4"]} rowGap={4}>
-                        <Here name="tofunft.com" src={'https://pbs.twimg.com/profile_images/1478611959738408962/ftn_GhBj_400x400.jpg'} />
+                        <Here name="tofunft.com" src={'https://pbs.twimg.com/profile_images/1478611959738408962/ftn_GhBj_400x400.jpg'} url='https://tofunft.com/collection/celo-erectus/' />
                         <Here name="cyberbox.art" src={'https://i.ibb.co/Bc1M06x/Box-logo2.png'} />
                         <Here name="ariswap.net" src={'https://pbs.twimg.com/profile_images/1490390423285772293/17-PYyfp_400x400.jpg'} />
-                        <Here name="epor.io" src={'https://pbs.twimg.com/profile_images/1358006180413644800/6D30gWMK_400x400.png'} />
+                        <Here name="epor.io" src={'https://pbs.twimg.com/profile_images/1358006180413644800/6D30gWMK_400x400.png'} url='https://epor.io/browse?type=sales&network=Celo&collection=celoerectus' />
                     </SimpleGrid>
                 </Center>
             </Box>
