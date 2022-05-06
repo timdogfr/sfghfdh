@@ -36,7 +36,7 @@ function Welcome() {
                                     _focus={{ outline: 0 }}
                                     _hover={{ bgColor: "transparent", color: "white", transform: "rotate(-3deg)" }}
                                 >
-                                    Mint Soon
+                                    Mint
                                 </Button>
                             </Link>
                         </Stack>
